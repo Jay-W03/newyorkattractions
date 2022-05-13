@@ -1,0 +1,80 @@
+
+h2{
+  color: purple;
+  font-family: Verdana, sans-serif;
+}
+
+#intro {
+  border-top-style: double;
+  border-right-style: solid;
+  border-bottom-style: double;
+  border-left-style: double;
+}
+
+h3{
+  color: purple;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: Georgia,Times, Serif;
+}
+
+#beginning {
+  font-size: 20px;
+  text-align: center;
+  font-weight:bold;
+}
+
+#statue {
+  text-align: center;
+  font-size: 20px;
+  font-weight:bold;
+}
+
+#timessquare {
+  font-size: 20px;
+  text-align: center;
+  font-weight:bold;
+}
+
+#bigapple {
+  border-top-style: double;
+  border-right-style: solid;
+  border-bottom-style: double;
+  border-left-style: double;
+}
+
+#timestitle {
+  border-top-style: double;
+  border-right-style: solid;
+  border-bottom-style: double;
+  border-left-style: double;
+}
+
+#parktitle {
+  border-top-style: double;
+  border-right-style: solid;
+  border-bottom-style: double;
+  border-left-style: double;
+}
+
+#parkbody {
+  font-size: 20px;
+  text-align: center;
+  font-weight:bold;
+}
+
+#statuetitle {
+  border-top-style: double;
+  border-right-style: solid;
+  border-bottom-style: double;
+  border-left-style: double;
+}
+
+body
+ {
+  background-image: url("http://getwallpapers.com/wallpaper/full/f/e/5/60113.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
